@@ -1,0 +1,21 @@
+{
+  "name": "yange-cli-custom-template-vue2",
+  "version": "1.0.2",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "index.js",
+  "__npminstall_done": true,
+  "_from": "yange-cli-custom-template-vue2@1.0.1",
+  "_resolved": "https://registry.npmjs.org/yange-cli-custom-template-vue2/-/yange-cli-custom-template-vue2-1.0.1.tgz",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "fs-extra": "^10.0.1",
+    "glob": "^7.2.0",
+    "inquirer": "^8.2.1"
+  }
+}
